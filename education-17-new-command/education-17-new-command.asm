@@ -40,7 +40,7 @@
 
 .equ	bit_4	=4
 		cbi		PORTB,bit_4		;сбросили 4 бит в портб
-		cbi		DDRDB,bit_5
+		cbi		DDRB,bit_5
 		
 		
 
